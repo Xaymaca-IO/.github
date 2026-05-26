@@ -32,7 +32,7 @@ Public repositories in this organization:
 
 Two additional shipped products live outside this organization for the moment:
 
-- **Ticklr** — privacy-first contact app, native iOS + Android, 21 locales including RTL and non-Latin scripts. Shipped on both stores. → [ticklr.org](https://ticklr.org)
+- **Ticklr** — privacy-first contact app, native iOS + Android, 21 locales including RTL and non-Latin scripts. Shipped on both stores. → [github.com/vinny2020/ticklr](https://github.com/vinny2020/ticklr) · [ticklr.org](https://ticklr.org)
 - **Beltline Living** — 3D Atlanta property-intelligence map (Next.js + Mapbox + Supabase + Stripe), served by Project Minerva. Rebrand to Proxiva Beltline in Q3 2026. → [beltline-demo.xaymaca.io](https://beltline-demo.xaymaca.io)
 
 ## How we work
