@@ -18,7 +18,7 @@ POSTURE    AI-native, calibrated
 Three engagement modes — each pitched as an outcome, not an hour.
 
 - **AI-Native Product Development** — we design and ship consumer software end-to-end across iOS, Android, web, and the APIs they depend on. Production-grade code: tested, localized, privacy-aware, App Store and Play Store-passable.
-- **B2B API & Data Platform Build-Outs** — we replace expensive vendor data dependencies with self-owned, multi-provider-abstracted, performance-budgeted REST APIs. Built multi-tenant from day one.
+- **B2B API & Data Platform Build-Outs** — self-owned, performance-budgeted REST APIs, multi-tenant from day one, with data providers swappable at deploy time. You own the data layer.
 - **Fractional Engineering Leadership** — for pre-Series A and Series A teams without a senior engineering hire in the building. We bring the operational layer alongside production code shipped.
 
 ## Selected work
@@ -27,13 +27,13 @@ Public repositories in this organization:
 
 | Repo | What it is | Status |
 | --- | --- | --- |
-| [project-minerva-api](https://github.com/Xaymaca-IO/project-minerva-api) | Self-owned property-data REST API for U.S. real estate. PostGIS-backed, multi-tenant. The data backend behind Beltline Living, replacing a paid third-party vendor. | In production |
+| [project-minerva-api](https://github.com/Xaymaca-IO/project-minerva-api) | Self-owned property-data REST API for U.S. real estate. PostGIS-backed, multi-tenant, with data providers swappable at deploy time. The data backend behind Beltline Living. | In production |
 | [xaymaca-llc-site](https://github.com/Xaymaca-IO/xaymaca-llc-site) | This practice's marketing site. Next.js 14, Tailwind, Framer Motion. Graphite-and-silver design language. | Live at [xaymaca.io](https://xaymaca.io) |
 
 Two additional shipped products live outside this organization for the moment:
 
 - **Ticklr** — privacy-first contact app, native iOS + Android, 21 locales including RTL and non-Latin scripts. Shipped on both stores. → [github.com/vinny2020/ticklr](https://github.com/vinny2020/ticklr) · [ticklr.org](https://ticklr.org)
-- **Beltline Living** — 3D Atlanta property-intelligence map (Next.js + Mapbox + Supabase + Stripe), served by Project Minerva. Rebrand to Proxiva Beltline in Q3 2026. → [beltline-demo.xaymaca.io](https://beltline-demo.xaymaca.io)
+- **Beltline Living** — the first corridor on **Proxiva**, our location-based corridor property-intelligence platform: a 3D Atlanta property map (Next.js + Mapbox + Supabase + Stripe), served by Project Minerva. Transitions to Proxiva branding in Q3 2026. → [beltline-demo.xaymaca.io](https://beltline-demo.xaymaca.io)
 
 ## How we work
 
